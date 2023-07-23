@@ -1,6 +1,6 @@
 {
-  "name": "clarity-app-loader",
-  "version": "1.0.6",
+  "name": "clarity-app-loader-v2",
+  "version": "1.0.8",
   "description": "preload asstes by showing progress bar",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
     "bar",
     "preload web app"
   ],
-  "author": "Sharif Eiri - Rashed Bayani",
+  "author": "Sharif Eiri - Rashed Bayani - Reza Masomi",
   "license": "ISC",
   "dependencies": {
     "uglify-es": "^3.3.9"
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rashedbayani/clarity-app-loader.git"
+    "url": "git+https://github.com/RezaMa98/clarity-app-loader-v2.git"
   }
 }
