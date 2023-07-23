@@ -1,0 +1,31 @@
+{
+  "name": "clarity-app-loader",
+  "version": "1.0.6",
+  "description": "preload asstes by showing progress bar",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "preload",
+    "asstes",
+    "progress",
+    "bar",
+    "preload web app"
+  ],
+  "author": "Sharif Eiri - Rashed Bayani",
+  "license": "ISC",
+  "dependencies": {
+    "uglify-es": "^3.3.9"
+  },
+  "bin": {
+    "clarity-app-loader": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashedbayani/clarity-app-loader.git"
+  }
+}
